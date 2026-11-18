@@ -104,7 +104,7 @@ Once the configuration has been imported, Open Headunit is ready to use.
 
 **Enjoy Apple CarPlay and Android Auto on your Geely Coolray!**
 
-*Installation guide by Mark Lorenzo.*
+*Installation guide by [link href="mailto:mv.lorenzo@icloud.com"]Mark Lorenzo[/link].*
 
 **Source Code & Installation Files:**  
 [GitHub – CarPlay & Android Auto Sideload](https://github.com/mvlorenzo/CarPlay-AndroidAuto-Sideload)
