@@ -68,15 +68,26 @@ If your head unit already has ES File Explorer, you can install the applications
 
 ---
 
-## Part 3: CarPlay & Android Auto Setup
+## Part 3: Configure CarPlay & Open Headunit
 
-Installation is only the first step. Follow the video tutorial below to configure and connect your iPhone or Android device.
+### Set Up CarPlay
 
-### Watch the CarPlay & Android Auto Setup Tutorial
+CarPlay setup is straightforward:
 
-<!-- Replace this placeholder with your YouTube video URL -->
+1. Open the **CarPlay** app on your head unit.
+2. Follow the instructions displayed on the screen.
+3. Complete the on-screen setup.
 
-[Insert YouTube Video Link Here]
+### Configure Open Headunit
+
+Before connecting your phone, import the supplied configuration file:
+
+1. Open the **Open Headunit** app.
+2. Find the option to import or load a configuration file.
+3. Select `open-headunit-settings.json` from your USB flash drive.
+4. Import the file and apply the configuration.
+
+Once the configuration has been imported, Open Headunit is ready to use.
 
 ---
 
