@@ -32,26 +32,6 @@ Download the installation package from the official GitHub repository:
 
    **Important:** Do not copy the entire extracted repository folder. Copy only the four listed items into the USB root directory.
 
-### Screenshots – USB Preparation
-
-**Screenshot 1: GitHub Download Page**
-
-<!-- Add screenshot here -->
-
-*Download the installation package from the official GitHub repository.*
-
-**Screenshot 2: Extracted ZIP Contents**
-
-<!-- Add screenshot here -->
-
-*The extracted folder containing all required installation files.*
-
-**Screenshot 3: USB Flash Drive Root Directory**
-
-<!-- Add screenshot here -->
-
-*All four required files and folders should be placed directly in the USB root directory.*
-
 ---
 
 ## Part 2: Install on Your Geely Coolray
@@ -67,26 +47,6 @@ Once installation is complete, you should see the following apps on your head un
 - **CarPlay**
 - **ES File Explorer**
 - **Open Headunit**
-
-### Screenshots – Head Unit Installation
-
-**Screenshot 4: Passenger-side USB Port**
-
-<!-- Add screenshot here -->
-
-*Insert the USB flash drive into the passenger-side USB port.*
-
-**Screenshot 5: USB Installation Popup**
-
-<!-- Add screenshot here -->
-
-*When the popup appears, tap Cancel and allow the installation to proceed.*
-
-**Screenshot 6: Successfully Installed Applications**
-
-<!-- Add screenshot here -->
-
-*Verify that CarPlay, ES File Explorer, and Open Headunit appear on your head unit.*
 
 ---
 
@@ -106,26 +66,6 @@ If your head unit already has ES File Explorer, you can install the applications
 6. Locate and tap each APK file to start the installation.
 7. Follow the on-screen installation prompts.
 
-### Screenshots – Manual Installation
-
-**Screenshot 7: APK Files**
-
-<!-- Add screenshot here -->
-
-*The two APK installation files inside the `apks` folder.*
-
-**Screenshot 8: ES File Explorer**
-
-<!-- Add screenshot here -->
-
-*Navigate to the USB flash drive using ES File Explorer.*
-
-**Screenshot 9: APK Installation Prompt**
-
-<!-- Add screenshot here -->
-
-*Tap the APK file and follow the installation prompts.*
-
 ---
 
 ## Part 3: CarPlay & Android Auto Setup
@@ -137,16 +77,6 @@ Installation is only the first step. Follow the video tutorial below to configur
 <!-- Replace this placeholder with your YouTube video URL -->
 
 [Insert YouTube Video Link Here]
-
-### Screenshots – Final Setup
-
-**Screenshot 10: CarPlay Interface**
-
-<!-- Add screenshot here -->
-
-**Screenshot 11: Android Auto Interface**
-
-<!-- Add screenshot here -->
 
 ---
 
