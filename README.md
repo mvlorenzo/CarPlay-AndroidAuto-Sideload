@@ -42,7 +42,7 @@ Download the installation package from the official GitHub repository:
 4. Leave the USB flash drive connected and allow the installation script to run automatically.
 5. Wait for the installation process to finish. Do not remove the USB flash drive or turn off your vehicle during installation.
 
-Once installation is complete, you should see the following apps on your head unit:
+Once installation is complete your device will restart and you should see the following apps on your head unit:
 
 - **CarPlay**
 - **ES File Explorer**
